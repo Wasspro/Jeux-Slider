@@ -1,0 +1,2 @@
+
+void deplacement(SLIDER S);
